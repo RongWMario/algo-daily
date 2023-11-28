@@ -9,6 +9,7 @@ int main(){
     }
     if(A==0){
         cout<<"No!!!";
+        /// test
         return 0;
     }
     int x,y;
